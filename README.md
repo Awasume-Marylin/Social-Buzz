@@ -7,7 +7,8 @@ This dataset contains dataset used to analyze a social media space called social
 - [Tools](#tools)
 - [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Results](results)
+- [Results](#results)
+- [Recommendations](#recommendations)
 ### Project Overview
 
 This project is aimed at gaining insghts on a social media platform called social buzz which will drive data driven decision making and also provide recommendations.
@@ -39,7 +40,7 @@ Before analysing this dataset, i had to prepare a clean dataset by;
 - An analysis of their content categories that highlights the top 5 categories with the
 largest aggregate popularity.
 
-### Results
+ ### Results
 
 Based on my analysis i discovered the following;
 - The top 5 categories are animals, science, healthy eating, technology and food.
