@@ -1,11 +1,18 @@
 # Social-Buzz
 This dataset contains dataset used to analyze a social media space called social buzz.
 
+### Table of content
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Results](results)
 ### Project Overview
 
 This project is aimed at gaining insghts on a social media platform called social buzz which will drive data driven decision making and also provide recommendations.
 
-![alt](
+![alt](https://github.com/Awasume-Marylin/Social-Buzz/blob/b9a0c2ec68431e39ae20c43db52fddc50ca49b6a/Output/Top_5_categories.png)
 
 ### Data Sources
 
@@ -16,7 +23,7 @@ This dataset was provided by Social Buzz.
 Excel - Data cleaning, analysis.
 PowerPoint - Presentation.
 
-### Data Cleaning Preparation
+### Data Cleaning 
 
 Before analysing this dataset, i had to prepare a clean dataset by;
 - Data loading
