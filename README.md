@@ -11,7 +11,7 @@ This dataset contains dataset used to analyze a social media space called social
 - [Recommendations](#recommendations)
 ### Project Overview
 
-This project is aimed at gaining insghts on a social media platform called social buzz which will drive data driven decision making and also provide recommendations.
+This project analyzes user engagement and trends on the Social Buzz platform to uncover key insights. By leveraging data-driven methodologies, it aims to identify patterns, optimize user experience, and provide actionable recommendations for strategic decision-making.
 
 ![alt](https://github.com/Awasume-Marylin/Social-Buzz/blob/b9a0c2ec68431e39ae20c43db52fddc50ca49b6a/Output/Top_5_categories.png)
 
